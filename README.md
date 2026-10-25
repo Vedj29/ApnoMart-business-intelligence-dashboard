@@ -1,4 +1,5 @@
 # ApnoMart — Business Intelligence Dashboard
+#Top Insight: Office Supplies delivers the highest category profit and weighted profit margin, while Electronics has the lowest weighted margin and deserves a closer review of costs and discounts.
 
 ## Project Overview
 
@@ -69,11 +70,12 @@ Review Electronics pricing, product costs, and discount policies to identify opp
 
 ## Repository Contents
 
-- `README.md` — Project overview, dashboard features, and business insights
-- `apnomart-insights.md` — Detailed numerical insights and recommendations
-- `dashboard-page-1.png` — Executive dashboard screenshot
-- `dashboard-page-2.png` — Profitability analysis screenshot
-- `ApnoMart.pbix` — Power BI project file, if included
+- `README.md` — Project overview and business insights
+- `apnomart-insights.md` — Detailed insights and recommendations
+- `apnomart-sales-data.csv` — Source dataset
+- `2026-10-26.png` — Dashboard screenshot
+- `2026-10-26 (1).png` — Second dashboard screenshot
+- `ApnoMart.pbix` — Power BI project file
 
 ## AI Usage Disclosure
 
